@@ -2,3 +2,4 @@
 2_Create template.py
 3_Fill requirements.txt file with packages
 4_Write setup.py
+5_Create logging function in __init__ available in src folder . Then create a python file and test the logger

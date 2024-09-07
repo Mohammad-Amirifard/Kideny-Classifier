@@ -1,3 +1,3 @@
-from src.Kidney_classifier import logger
+from Kidney_classifier import logger
 
-logger.info('Welcome to this test log')
+logger.info('Welcome to this test log1')
