@@ -1,2 +1,4 @@
 1_Create Repository
 2_Create template.py
+3_Fill requirements.txt file with packages
+4_Write setup.py
