@@ -7,7 +7,7 @@ in a editable mode.
 '''
 Aouthor= "Mohammad Amirifard"
 Email = "Mohammad.amirifard@mail.polimi.it"
-Src_repo = "Kideney_classifier" # When we set this to name of folder in src, we can add logger in __ini__ file in src folder
+Src_repo = "Kidney_classifier" # When we set this to name of folder in src, we can add logger in __ini__ file in src folder
 Vesrion = '0.0.1'
 
 setuptools.setup(
